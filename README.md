@@ -1,1 +1,1 @@
-# imagem-e-notas-python
+Esse repositório contém dois Scripts um que converte imagens coloridas em escala de cinza utilizando bibliotecas de processamento de imagem e um que realiza o cálculo/análise das notas do primeiro semestre de alunos, podendo incluir média, situação final (aprovado/reprovado) e relatórios simples
